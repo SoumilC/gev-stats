@@ -1,1 +1,1 @@
-# Generalized extreme value stats analysis
+# Python files for generalized extreme value stats analysis
